@@ -11,7 +11,7 @@ This Git repository is intended to help English learners expand their vocabulary
 ### Installation
 
 1.  Clone the repository to your local machine
-2.  Navigate to the project directory using the terminal (`cd english_words_tts`)
+2.  Navigate to the project directory using the terminal (`cd words-tts`)
 3.  Type the following command to start the TTS: `docker-compose up`
 
 ### Usage
